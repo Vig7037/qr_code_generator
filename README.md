@@ -20,3 +20,29 @@ Generate stylish and colorful QR codes with this Python script using the `qrcode
 
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
+   ```
+
+ Navigate to the project directory:
+
+```bash
+   cd qr-code-generator
+```
+Run the script:
+
+```bash
+   python qr_code_generator.py
+```
+Follow the on-screen instructions to input your data, choose a file name, and select your QR code design preferences.
+## Design Options
+## Gradient Design
+Choose option 1 to apply a gradient design to your QR code.
+
+## Custom Colors
+Choose option 2 to manually select filling and background colors for your QR code.
+
+## Author
+-Vighnesh Singhal
+
+Feel free to create stylish and customized QR codes with this script. Enjoy!
+
+
